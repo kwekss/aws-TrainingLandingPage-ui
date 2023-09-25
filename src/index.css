@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.borderRadius{
+    
+  border-bottom-left-radius: 28% 4%;
+  border-bottom-right-radius: 28% 4%;
+}
